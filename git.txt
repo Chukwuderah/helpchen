@@ -1,4 +1,4 @@
-HOW TO INSTALL GIT ON A LOCAL MACHINE
+HOW TO INSTALL GIT ON A LOCAL MACHINE.
 
 To install Git on your local machine, you can follow these general steps. The specific commands may vary slightly depending on your operating system:
 

@@ -1,4 +1,4 @@
-Create a GitHub account and clone repos to the local machine
+Create a GitHub account and clone repos to the local machine.
 
 To create a GitHub account and clone repos to the loacl machine, there are certain steps you need to take:
 
